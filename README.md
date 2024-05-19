@@ -10,7 +10,7 @@ Special thanks to my friends [AssaultKifle47](https://github.com/akifle47/), [ro
 - Added 256 tile stipple support
 # Lighting
 - Fixed volumetric light shafts occlusion
-- Ported console foliage translucency
+- ~~Ported console foliage translucency~~
 - Fixed orange glow under trees
 - Added tree vertex AO toggle
 - Fixed light dimming/pop-in
@@ -65,7 +65,6 @@ Special thanks to my friends [AssaultKifle47](https://github.com/akifle47/), [ro
 [![pic4.png](https://i.postimg.cc/W1fHrCS3/pic4.png)](https://postimg.cc/hXTsRCkW)
 [![pic5.png](https://i.postimg.cc/PJz7wqFs/pic5.png)](https://postimg.cc/PvJKGdj2)
 [![pic6.png](https://i.postimg.cc/KcnwV9cq/pic6.png)](https://postimg.cc/z3GxHFgK)
-[![treefx.png](https://i.postimg.cc/KY6ppT6h/treefx.png)](https://postimg.cc/bGRRsZYm)
 [![pcss.png](https://i.postimg.cc/SQ71VJVH/pcss.png)](https://postimg.cc/vDTvZ8Jv)
 [![amdwater.png](https://i.postimg.cc/t40bP1gw/amdwater.png)](https://postimg.cc/ykT2C8cy)
 [![cars.png](https://i.postimg.cc/BQRSgYmh/cars.png)](https://postimg.cc/zVSYDjZW)
